@@ -8,7 +8,7 @@ Bienvenue sur mon profil GitHub! Je suis **Développeuse Full Stack Web & Web Mo
 Je suis une développeuse full stack spécialisé dans le développement web et web mobile en apprentissage. Je me forme grâce à des plateforme telles que freeCodeCamp, mimo.org et je suis des cours en ligne avec la plateforme Studi, pour valider la formation Graduate Developper Full Stack Web & Web Mobile Angular (équivalent BAC+2).  Je crois au pouvoir de la technologie pour résoudre les problèmes du monde réel.
 
 - 🔭 Actuellement en développement de projets web et mobile innovants
-- 🌱 En apprentissage continu : Front-end (HTML, CSS, Javascript, Wordpress, Angular, Figma...) Back-end (PHP, Syphony, SQL
+- 🌱 En apprentissage continu : Front-end (HTML, CSS, Javascript, Wordpress, Angular, Figma...) Back-end (PHP, Syphony, SQL)
 - 💬 Je veux aggrandir mon réseau social, je pense que cela me motivera à avancer dans le domaine
 - 📫 Je serais ravi de vous rencontrer – j'adore échanger avec d'autres développeurs!
 
