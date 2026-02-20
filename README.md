@@ -1,56 +1,51 @@
-## Hi there 👋
+
 [README_Version3.md](https://github.com/user-attachments/files/25438884/README_Version3.md)# Salut! 👋
 
-Bienvenue sur mon profil GitHub! Je suis **Développeur Full Stack Web & Web Mobile** passionné par la création de solutions innovantes et la contribution à la communauté open-source.
+Bienvenue sur mon profil GitHub! Je suis **Développeuse Full Stack Web & Web Mobile**, en apprentissage, passionnée par la création de solutions innovantes et la contribution à la communauté open-source.
 
 ## 🚀 À Propos de Moi
 
-Je suis un développeur full stack spécialisé dans le développement web et web mobile. Je me passionne pour écrire du code propre, créer des solutions élégantes et apprendre continuellement de nouvelles technologies. Je crois au pouvoir de la technologie pour résoudre les problèmes du monde réel.
+Je suis une développeuse full stack spécialisé dans le développement web et web mobile en apprentissage. Je me forme grâce à des plateforme telles que freeCodeCamp, mimo.org et je suis des cours en ligne avec la plateforme Studi, pour valider la formation Graduate Developper Full Stack Web & Web Mobile Angular (équivalent BAC+2).  Je crois au pouvoir de la technologie pour résoudre les problèmes du monde réel.
 
 - 🔭 Actuellement en développement de projets web et mobile innovants
-- 🌱 En apprentissage continu : Angular et les bases de données (SQL)
-- 💬 N'hésitez pas à me poser des questions sur le développement web, web mobile et l'architecture logicielle
+- 🌱 En apprentissage continu : Front-end (HTML, CSS, Javascript, Wordpress, Angular, Figma...) Back-end (PHP, Syphony, SQL
+- 💬 Je veux aggrandir mon réseau social, je pense que cela me motivera à avancer dans le domaine
 - 📫 Je serais ravi de vous rencontrer – j'adore échanger avec d'autres développeurs!
-- ⚡ Anecdote amusante: Je suis un passionné de technologie qui adore explorer de nouveaux frameworks et outils
 
 ## 💻 Compétences Techniques
 
 **Langages & Technologies**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Git & Version Control
+- HTML5 (débutante)
+- CSS3 (débutante)
+- JavaScript (ES6+)(débutante)
+- Git & Version Control (débutant)
 
 **Domaines de Spécialisation**
 - Développement Web Full Stack
 - Développement Web Mobile
-- Création d'interfaces utilisateur modernes
-- Résolution de problèmes complexes
-- Collaboration en équipe
 
 **En Apprentissage** 🚀
+- HTML & CSS
+- Javascript
+- Wordpress
 - Angular
-- SQL & Bases de Données
+- Figma
+- Php
+- Symphony
+- SQL 
 
 ## 🏆 Points Forts
 
-- 🎯 Développeur passionné et motivé
-- 📚 Engagé dans l'apprentissage continu
-- 🌟 Création de projets de qualité
+- 🎯 Développeuse passionnée et motivée
+- 📚 Engagée dans l'apprentissage continu
+- 🌟 Création de projets en évolution (freeCodeCamp, projet personnel, collaboration avec d'autres  développeurs en apprentissage)
 - 🔄 Toujours à la recherche de nouveaux défis
 
-## 📈 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorlineadelaar-maker&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorlineadelaar-maker&layout=compact&theme=radical)
 
 ## 🔗 Me Contacter
 
 - 💼 [LinkedIn - Dorline Adelaar](https://www.linkedin.com/in/dorlineadelaar)
-- 🐦 [Twitter - @dorlineadelaar](https://twitter.com/dorlineadelaar)
 - 📧 Email: dorlineadelaar@gmail.com
-- 🌐 [Portfolio](#)
 
 ## 📌 Projets en Vedette
 
