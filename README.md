@@ -44,7 +44,7 @@ Je suis une développeuse full stack spécialisé dans le développement web et 
 
 ## 🔗 Me Contacter
 
-- 💼 [LinkedIn - Dorline Adelaar](https://www.linkedin.com/in/dorlineadelaar)
+- 💼 [LinkedIn - Dorline Adelaar](www.linkedin.com/in/dorline-adelaar-63ba19295)
 - 📧 Email: dorlineadelaar@gmail.com
 
 ## 📌 Projets en Vedette
